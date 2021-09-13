@@ -5,7 +5,7 @@
 #include <string.h>
 
 #define FileName "data.dat" 
-#define DataString "Now is the winter of our discontent\nMade glorious summer by this sun of York\n"
+#define DataString "\n"
 
 void report_and_exit(const char* msg) {
   perror(msg);
